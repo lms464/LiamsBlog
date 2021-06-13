@@ -1,4 +1,4 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
-baseurl: https://lms464.github.io/LiamsBlog/
+baseurl: /
 permalink: /blog/:year/:month/:day/:title
