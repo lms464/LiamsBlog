@@ -32,7 +32,7 @@ Step 1, reading
 
 Step 2, Draw it and build a table populated with the information you were given. Break the table into x and y for initial and final positions, initial and final velocity, acceleration, and time (though time will be the same in both collumns).
 
-![Displacement Figure](/Users/liamsharp/github/LiamsBlog/_images/Physics_Math_or_Not/Physics_Math_or_Not.0011.png)
+![Displacement Figure](https://github.com/lms464/lms464.github.io/blob/master/_images/Physics_Math_or_Not/Physics_Math_or_Not.0011.png?raw=true)
 
 #### The question
 
@@ -62,7 +62,7 @@ Next the initial velocity is 2 m/s *only* in x (implied by 0 deg from the x axis
 
 The ball should move along half a parabola. 
 
-![Displacement Figure](/Users/liamsharp/github/LiamsBlog/_images/Physics_Math_or_Not/Physics_Math_or_Not.0012.png)
+![Displacement Figure](https://github.com/lms464/lms464.github.io/blob/master/_images/Physics_Math_or_Not/Physics_Math_or_Not.0012.png?raw=true)
 
 
 
@@ -80,19 +80,19 @@ How do we do that? In the question, I note that gravity is assumed. Gravity play
 
 Starting with how to solve for time by setting up the equation in the y direction:
 
-![Displacement Figure](/Users/liamsharp/github/LiamsBlog/_images/Physics_Math_or_Not/Physics_Math_or_Not.0041.png)
+![Displacement Figure](https://github.com/lms464/lms464.github.io/blob/master/_images/Physics_Math_or_Not/Physics_Math_or_Not.0041.png?raw=true)
 
 Lets stop here for a moment. I make a statement that we now have a quadratic equation. You should have seen this equation in algebra and pre-calc:
 
-<img src="/Users/liamsharp/github/LiamsBlog/_images/Physics_Math_or_Not/QuadraticEq.png" alt="Displacement Figure" style="zoom: 33%;" />
+<img src="https://github.com/lms464/lms464.github.io/blob/master/_images/Physics_Math_or_Not/QuadraticEq.png?raw=true" alt="Displacement Figure" style="zoom: 33%;" />
 
 Please note, I've not written the equation you have exactly, but ours is a quadratic equation! Our constant term (a) is the difference in position (y-y<sub>0</sub>). Our linear term b is v<sub>0,y</sub>. Lastly, our second order term (c) is <sup>1</sup>&frasl;<sub>2</sub>a<sub>y</sub>. With this in mind we can populate the last equation posted with our information! Sstart by populating the equation with our variables. THEN, fill in the numbers (numbers are _**always**_ second).
 
-![Displacement Figure](/Users/liamsharp/github/LiamsBlog/_images/Physics_Math_or_Not/Physics_Math_or_Not.0042.png)
+![Displacement Figure](https://github.com/lms464/lms464.github.io/blob/master/_images/Physics_Math_or_Not/Physics_Math_or_Not.0042.png?raw=true)
 
 One more reminder, you will get two answers, remember we are looking for a time, if you get an imaginary or negative time, its not the one you want. If you ONLY get negative or imaginary time, something has gone wrong. For us, we get a time that says the ball was in the air for 1.01 seconds! Great!! We can use this time to find the displacement in x!
 
-![Displacement Figure](/Users/liamsharp/github/LiamsBlog/_images/Physics_Math_or_Not/Physics_Math_or_Not.005.png)
+![Displacement Figure](https://github.com/lms464/lms464.github.io/blob/master/_images/Physics_Math_or_Not/Physics_Math_or_Not.005.png?raw=true)
 
 So the ball should have travled about 2m in x! Excellent! 
 
