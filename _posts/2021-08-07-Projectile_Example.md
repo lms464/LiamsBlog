@@ -101,11 +101,9 @@ So the ball should have travled about 2m in x! Excellent!
 Lets take a moment and talk about why we could *choose* an initial x position. The initial and final numbers, honestly, don't matter terribly much. What does matter is the for Δx. If the difference in x is 2m, everyhting is ok, the initial x could be 10m and the final could be 12m, and Δx is still 2m!
 
 Ok, we're all set! **Wrong!** We are looking for a distance, the *magnitude* of displacement. So what would the distance be? I'll be using the variable s to denote distance.
-$$
-s=\sqrt{\Delta x^2+\Delta y^2}\\
-s=\sqrt{2.02m^2 + 10m^2}\\
-s=10.2m
-$$
+
+<img src="https://github.com/lms464/lms464.github.io/blob/master/_maths/distance_example.png?raw=true" alt="Displacement Figure" style="zoom:33%;" />
+
 So the total distance the ball travels is 10.2m's!
 
 #### Wrapping things up
