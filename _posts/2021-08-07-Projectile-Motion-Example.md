@@ -94,11 +94,11 @@ One more reminder, you will get two answers, remember we are looking for a time,
 
 ![Displacement Figure](https://github.com/lms464/lms464.github.io/blob/master/_images/Physics_Math_or_Not/Physics_Math_or_Not.005.png?raw=true)
 
-So the ball should have travled about 2m in x! Excellent! 
+So the ball should have travled about 3m in x! Excellent! 
 
 
 
-Lets take a moment and talk about why we could *choose* an initial x position. The initial and final numbers, honestly, don't matter terribly much. What does matter is the for Δx. If the difference in x is 2m, everyhting is ok, the initial x could be 10m and the final could be 12m, and Δx is still 2.86m!
+Lets take a moment and talk about why we could *choose* an initial x position. The initial and final numbers, honestly, don't matter terribly much. What does matter is the for Δx. If the difference in x is 2m, everyhting is ok, the initial x could be 10m and the final could be 13m, and Δx is still about 3m!
 
 Ok, we're all set! **Wrong!** We are looking for a distance, the *magnitude* of displacement. So what would the distance be? I'll be using the variable s to denote distance.
 
@@ -112,7 +112,7 @@ Lets go back to the question:
 
 You kick a ball off of a 10 m high cliff. The ball is kicked with an angle of 0 deg from the x axis with an initial velocity of 2 m/s. 1) How long before the ball hits the ground? 2) What is the distance the ball travels?
 
-Using the initial condistions stated in the question, we find it takes about 1.01 seconds for the ball to hit the ground. We also find the total distance the ball traveled wat 10.2 m's.
+Using the initial condistions stated in the question, we find it takes about 1.43 seconds for the ball to hit the ground. We also find the total distance the ball traveled wat 10.35 m's.
 
 So what is important in what I've set up here? It's not the math, that while important can be done by nearly any calculator or website. It was the set up: isolating what you want to know and what information you have. In most of physics, if you can draw an image and make a chart, you have MOST of the hard work done! Keep this in mind while playing with your questions!!
 
