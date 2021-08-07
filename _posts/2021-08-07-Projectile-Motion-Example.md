@@ -90,7 +90,7 @@ Please note, I've not written the equation you have exactly, but ours is a quadr
 
 ![Displacement Figure](https://github.com/lms464/lms464.github.io/blob/master/_images/Physics_Math_or_Not/Physics_Math_or_Not.0042.png?raw=true)
 
-One more reminder, you will get two answers, remember we are looking for a time, if you get an imaginary or negative time, its not the one you want. If you ONLY get negative or imaginary time, something has gone wrong. For us, we get a time that says the ball was in the air for 1.01 seconds! Great!! We can use this time to find the displacement in x!
+One more reminder, you will get two answers, remember we are looking for a time, if you get an imaginary or negative time, its not the one you want. If you ONLY get negative or imaginary time, something has gone wrong. For us, we get a time that says the ball was in the air for 1.43 seconds! Great!! We can use this time to find the displacement in x!
 
 ![Displacement Figure](https://github.com/lms464/lms464.github.io/blob/master/_images/Physics_Math_or_Not/Physics_Math_or_Not.005.png?raw=true)
 
@@ -98,7 +98,7 @@ So the ball should have travled about 2m in x! Excellent!
 
 
 
-Lets take a moment and talk about why we could *choose* an initial x position. The initial and final numbers, honestly, don't matter terribly much. What does matter is the for Δx. If the difference in x is 2m, everyhting is ok, the initial x could be 10m and the final could be 12m, and Δx is still 2m!
+Lets take a moment and talk about why we could *choose* an initial x position. The initial and final numbers, honestly, don't matter terribly much. What does matter is the for Δx. If the difference in x is 2m, everyhting is ok, the initial x could be 10m and the final could be 12m, and Δx is still 2.86m!
 
 Ok, we're all set! **Wrong!** We are looking for a distance, the *magnitude* of displacement. So what would the distance be? I'll be using the variable s to denote distance.
 
