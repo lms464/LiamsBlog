@@ -2,11 +2,9 @@
 
 In intro physics, there are three laws of mothion you need to know: 
 
-* Inertia: an object stays in motion unless an external force changes that motion. It also encompaces the opposite, an object at rest will remain at rest unless and external force is applied. 
-  * Think of an air hokey table with an infiite length. The puck will go significantly further when the air is on than when it is off. The air we breath causes a drag (the external force that causes the puck to to stop).
+* Inertia: an object stays in motion unless an external force changes that motion. It also encompaces the opposite, an object at rest will remain at rest unless and external force is applied. Think of an air hokey table with an infiite length. The puck will go significantly further when the air is on than when it is off. The air we breath causes a drag (the external force that causes the puck to to stop).
 * Force is equal to the mass multipled by the change in velocity with respect to time (acceloration): F=ma (the vectors are in bold).
-* Every action has an equal and oposite reaction. 
-  * If you push on a wall, what prevents you from falling through? The wall pushes back on you.
+* Every action has an equal and oposite reaction. If you push on a wall, what prevents you from falling through? The wall pushes back on you.
 
 
 
