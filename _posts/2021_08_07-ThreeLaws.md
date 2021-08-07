@@ -22,16 +22,12 @@ If we look at displacement, velocity, and acceleration for example. The velocity
 
 
 
-<img src="/Users/liamsharp/github/LiamsBlog/_maths/slopes.png " style="zoom:50%;" /> 
-
-
+<img src="https://github.com/lms464/lms464.github.io/blob/master/_maths/slopes.png?raw=true" alt="Displacement Figure" style="zoom:33%;" />
 
 I recomend keeping this in the back of your head, **and** using your graphing calculator or Wolfram alpha to plot.
 
 I've attached three useful equations below. They are written in a general notation, where r, v, a, and F can represent a displacement in x, y, or z. Any variable with the subscript 0, is the initial value for the system (say your initial velocity is 2 m/s in x this would be an initial velocity).
 
-<img src="/Users/liamsharp/github/LiamsBlog/_maths/Eq_motion.png" alt="image-20210807121736102" style="zoom:50%;" />
-
-
+<img src="https://github.com/lms464/lms464.github.io/blob/master/_maths/Eq_motion.png?raw=true" alt="Displacement Figure" style="zoom: 33%;" />
 
 The first equation predict where an object will move at specific times. The second equation predicts how an objects velocity changes, again with respect to time. The third equation is Newton's second law. There are more! For the moment I won't go further than these. 
