@@ -104,7 +104,7 @@ Ok, we're all set! **Wrong!** We are looking for a distance, the *magnitude* of 
 
 <img src="https://github.com/lms464/lms464.github.io/blob/master/_maths/distance_example.png?raw=true" alt="Displacement Figure" style="zoom:33%;" />
 
-So the total distance the ball travels is 10.2m's!
+So the total distance the ball travels is 10.35m's!
 
 #### Wrapping things up
 
