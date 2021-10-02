@@ -32,7 +32,7 @@ We make an assumption here for intro physics, and that is mass is constant (and 
 
 There is an addendum here that's dependant on who is teaching, what book you are using, and potentially who you might be getting help from. The force we are describing here is the *net* force, or the sum of forces acting on an object. For this, we will use the following terms interchangeably:
 
-<img src="/Users/liamsharp/Library/Application Support/typora-user-images/image-20210925142423347.png" alt="image-20210925142423347" style="zoom:25%;" />
+<img src="https://github.com/lms464/lms464.github.io/blob/master/_maths/F3.5.5.png?raw=true" alt="Displacement Figure" style="zoom:25%;" />
 
 Here's where I've found people getting confused. Pretend you are sky diving, there are two forces acting on you (for the sake of argument), 1) gravity, 2) the drag from the parachute. Neighter *gravity* or *drag* is equal to m**a**, their sum is.
 
