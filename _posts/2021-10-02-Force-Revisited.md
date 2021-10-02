@@ -14,19 +14,21 @@ Pretend you are in space, and you've got a tiny thruster. If you turn on your th
 
 A quick note, I'm using calculus notation so we'll have derivatives. If you are in a non-calc class, you can replace the derivatives with Δ's. Is this sacrilege, yeah but is sacrilege within reason. 
 
-<img src="/Users/liamsharp/Library/Application Support/typora-user-images/image-20210925145538719.png" alt="image-20210925145538719" style="zoom:25%;" />
+
+
+<img src="https://github.com/lms464/lms464.github.io/blob/master/_maths/dxdt.png?raw=true" alt="Displacement Figure" style="zoom:25%;" />
 
 The second law is an equation describing the sum of forces, and in it's most general form
 
-<img src="/Users/liamsharp/Library/Application Support/typora-user-images/image-20210925141330592.png" alt="image-20210925141330592" style="zoom: 25%;" />
 
-<img src="/Users/liamsharp/Library/Application Support/typora-user-images/image-20210925141424095.png" alt="image-20210925141424095" style="zoom:25%;" />
 
-<img src="/Users/liamsharp/Library/Application Support/typora-user-images/image-20210925141704377.png" alt="image-20210925141704377" style="zoom:25%;" />
+<img src="https://github.com/lms464/lms464.github.io/blob/master/_maths/force1.png?raw=true" alt="Displacement Figure" style="zoom:25%;" />
+
+<img src="https://github.com/lms464/lms464.github.io/blob/master/_maths/force2.png?raw=true" alt="Displacement Figure" style="zoom:25%;" />
 
 We make an assumption here for intro physics, and that is mass is constant (and that's a fair assumption). Recall that the first  derivative of velocity is acceleration (or the difference of velociy with repsect to the difference of time). With that the equation simplifies to:
 
-<img src="/Users/liamsharp/Library/Application Support/typora-user-images/image-20210925141905222.png" alt="image-20210925141905222" style="zoom:25%;" />
+<img src="https://github.com/lms464/lms464.github.io/blob/master/_maths/force3.5.png?raw=true" alt="Displacement Figure" style="zoom:25%;" />
 
 There is an addendum here that's dependant on who is teaching, what book you are using, and potentially who you might be getting help from. The force we are describing here is the *net* force, or the sum of forces acting on an object. For this, we will use the following terms interchangeably:
 
@@ -34,7 +36,7 @@ There is an addendum here that's dependant on who is teaching, what book you are
 
 Here's where I've found people getting confused. Pretend you are sky diving, there are two forces acting on you (for the sake of argument), 1) gravity, 2) the drag from the parachute. Neighter *gravity* or *drag* is equal to m**a**, their sum is.
 
-<img src="/Users/liamsharp/Library/Application Support/typora-user-images/image-20210925143139303.png" alt="image-20210925143139303" style="zoom:25%;" />
+<img src="https://github.com/lms464/lms464.github.io/blob/master/_maths/force4.png?raw=true" alt="Displacement Figure" style="zoom:25%;" />
 
 ## Newton's Third Law
 
@@ -54,5 +56,5 @@ The mass, size, area, and volume don't matter. Lets play with two ideas for a mo
 
 3. Get this in your head: the NET of the forces is equal to m**a**, *NOT* any old force. If you cannot, you are giong to have such a struggle
 
-   <img src="/Users/liamsharp/Library/Application Support/typora-user-images/image-20210925143139303.png" alt="image-20210925143139303" style="zoom:25%;" />
+   <img src="https://github.com/lms464/lms464.github.io/blob/master/_maths/force4.png?raw=true" alt="Displacement Figure" style="zoom:25%;" />
 
